@@ -1,0 +1,1 @@
+alert("from second file in subfolder: newfolder")
